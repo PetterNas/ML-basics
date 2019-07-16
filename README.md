@@ -1,3 +1,3 @@
 # ML-basics
 
-Very basic standard models for Machine Learning.
+Basic models showing different Machine learning algorithms.
