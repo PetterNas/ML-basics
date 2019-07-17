@@ -7,6 +7,8 @@ import pandas as pd
 
 # Importing the dataset, and setting my dependant and independant variable.
 dataset = pd.read_csv('Salary_Data.csv')
+dataset.head()
+
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 1].values
 
